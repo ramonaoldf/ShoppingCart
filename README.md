@@ -4,7 +4,7 @@
 We developed an end to end **Ecommerce web Application using Spring MVC** with multiple
 modules
 
-## Project is not maintained anymore [here #56](https://github.com/ikismail/ShoppingCart/issues/56#issue-606454548)
+## Project is not maintained anymore [here #56](https://github.com/ramonaoldf/ShoppingCart/issues/56#issue-606454548)
 
 ### Functionalities:
 
@@ -41,19 +41,14 @@ modules
 ### Installation:
 
 1. Development Platform - Eclipse / IntelliJ Idea
-   * [Download Eclipse](https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/mars2).
-   * [Download IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows).
 2. Server - Apache Tomcat Server
 
-   * [Download Apache Server](https://tomcat.apache.org/download-70.cgi).
 
 3. Build Tool - Maven
 
-   * [Download Maven](https://maven.apache.org/download.cgi).
 
 4. Database - H2 Database
 
-   * [Download H2 Database](http://www.h2database.com/html/download.html).
 
 5. Configuring tomcat with Eclipse (windows) - [Click Here](https://javatutorial.net/run-tomcat-from-eclipse).
 
@@ -97,9 +92,9 @@ Contributors are most welcome.
 
 * Home Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
+![Alt text](https://github.com/ramonaoldf/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
 
 * Contact Us:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
+![Alt text](https://github.com/ramonaoldf/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
 
